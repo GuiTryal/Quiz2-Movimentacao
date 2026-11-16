@@ -1,0 +1,8 @@
+{
+    "name": "GameEditor",
+    "references": ["Game"],
+    "includePlatforms": ["Editor"],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "autoReferenced": true
+}
